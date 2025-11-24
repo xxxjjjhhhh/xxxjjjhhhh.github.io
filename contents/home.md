@@ -1,17 +1,17 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: p2519852@mpu.edu.mo
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+Artificial Intelligence, Macao Polytechnic University, 2025—2029
 
-#### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+
+#### Self introduction
+
+My name is XIE JIAHONG. I'm currently studying Artificial Intelligence at Macau Polytechnic University. I'm passionate about exploring how intelligent systems can solve real-world challenges. In my free time, I enjoy working on coding projects and staying updated with the latest tech trends. I'm always eager to connect and exchange ideas with others in the field.
+
+
 
